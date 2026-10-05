@@ -1,2 +1,14 @@
-# PRY2204-Semana8
-Actividad Sumativa Semana 8 - Modelamiento de Bases de Datos
+# PRY2204 - Semana 8
+
+Actividad Sumativa de Modelamiento de Bases de Datos.
+
+El archivo SQL contiene:
+
+- Creación del modelo relacional.
+- Restricciones de integridad.
+- Modificación de tablas con ALTER TABLE.
+- Poblamiento de datos.
+- Secuencias.
+- Consultas SELECT solicitadas en la actividad.
+
+Desarrollado en Oracle SQL Developer.
