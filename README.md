@@ -1,4 +1,4 @@
-# PRY2204 - Semana 8
+# Byron Aguilar - Semana 8
 
 Actividad Sumativa de Modelamiento de Bases de Datos.
 
